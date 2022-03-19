@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1dXX4AkOCa1Pj1RtHqfUSht7zZE+NWVT0GCP4uWptyinCslvap6UZlAdwbSNFKDfDMvhfnZUMxKfBpCsAe6mEw==",
+  "dgSpecHash": "oHjOd1tClF67+SHDU0rzfwXEgeIJ2VBrGuSaSAXmfoMF58Ne4UEXQ1MO57hr7fFXQE7ec4DWtUJ8xk/q5e+JtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents.csproj",
+  "projectFilePath": "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents\\JobForStudents.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sahabt\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\sahabt\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",

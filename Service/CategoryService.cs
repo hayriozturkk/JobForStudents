@@ -85,11 +85,11 @@ namespace JobForStudents
         public async Task<ServiceResponse<Category>> GetCategoryByName(string categoryName)
         {
             ServiceResponse<Category> response = new ServiceResponse<Category>();
-            var GetCategoryByName = _CategoryRepository.GetCategoryByName(categoryName);
+            var GetCategoryByName = await _CategoryRepository.GetCategoryByName(categoryName);
             if (GetCategoryByName != null)
             {
                 response.ResponseCode = ResponseCodeEnum.Success;
-                response.Data= await GetCategoryByName; 
+                response.Data=  GetCategoryByName; 
                 return response;
             }
             else
