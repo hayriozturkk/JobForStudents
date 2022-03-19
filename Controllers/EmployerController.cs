@@ -33,7 +33,7 @@ namespace JobForStudents
         }
 
 
-        //https://localhost:7049/Employer/GetEmployersByBirthDate?MaxBirthDate=2022-12-30&MinBirthDate=2023-12-30
+        //https://localhost:7049/Employer/GetEmployersByBirthDate?MaxBirthDate=2023-12-30&MinBirthDate=2022-12-30
         [HttpGet("GetEmployersByBirthDate")]
         public async Task<ActionResult<ServiceResponse<List<Employer>>>> GetEmployersByBirthDate([FromQuery] DateTime MaxBirthDate, DateTime MinBirthDate)
         {

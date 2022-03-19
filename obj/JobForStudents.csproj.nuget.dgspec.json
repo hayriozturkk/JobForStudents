@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents.csproj": {}
+    "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents\\JobForStudents.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents.csproj": {
+    "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents\\JobForStudents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents.csproj",
+        "projectUniqueName": "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents\\JobForStudents.csproj",
         "projectName": "JobForStudents",
-        "projectPath": "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents.csproj",
+        "projectPath": "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents\\JobForStudents.csproj",
         "packagesPath": "C:\\Users\\sahabt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahabt\\Desktop\\JobForStudents\\obj\\",
+        "outputPath": "C:\\Users\\sahabt\\Desktop\\JobForStudents\\JobForStudents\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sahabt\\AppData\\Roaming\\NuGet\\NuGet.Config",
